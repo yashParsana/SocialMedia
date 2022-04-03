@@ -10,9 +10,11 @@
   <link rel="stylesheet" type="text/css" href="about.css" />
 </head>
 
-<body>
+<body> 
+
   <header>
-    <div class="center">
+  
+  <div class="center">
       <div class="center">
         <nav>
           <ul>
